@@ -6,4 +6,4 @@
 [【AI Studio】241对JSRT原图和骨抑制数据集](https://aistudio.baidu.com/aistudio/datasetdetail/234557)
 
 ## Papers Highlights
-You can view them in the file "papers highlights.pptx".
+You can view them in the file "Papers Highlights.pptx".
