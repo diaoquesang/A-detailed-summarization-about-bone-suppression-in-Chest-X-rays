@@ -7,8 +7,9 @@
 
 
 ## Introduction
-This homepage lists some representative papers/codes/datasets all about bone suppression. We aim to constantly update the latest relevant papers and help the community track this topic. Please feel free to join us and contribute to the project. If you have any questions, please feel free to contact Yifei Sun <2222040504@qq.com>
-and Zhanghao Chen <czh345068@gmail.com>.
+This homepage lists some representative papers/codes/datasets all about bone suppression. We aim to constantly update the latest relevant papers and help the community track this topic. Please feel free to join us and contribute to the project. If you have any questions, please feel free to contact Zhanghao Chen and Yifei Sun.
+Zhanghao Chen's email address: <czh345068@gmail.com>
+Yifei Sun's email address: <2222040504@qq.com>
 
 
 ## Datasets
