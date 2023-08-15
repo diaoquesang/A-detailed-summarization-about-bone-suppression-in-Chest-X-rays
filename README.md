@@ -5,10 +5,10 @@
 ![](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-awesomelists-FC60A8?style=flat-square&logo=awesomelists&logoColor=FFFFFF)
 
-## 数据集
-### 原图和骨mask:
+## Datasets
+### Original Chest X-Rays and corresponding bone masks:
 [【kaggle】235对JSRT原图和骨mask数据集](https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
-### 原图和骨抑制:
+### Original Chest X-Rays and corresponding bone suppressed images:
 [【AI Studio】241对JSRT原图和骨抑制数据集](https://aistudio.baidu.com/aistudio/datasetdetail/234557)
 
 ## Papers Highlights
