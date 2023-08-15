@@ -23,4 +23,4 @@ JSRT  ORIGINAL  AND  BONE  MASKS (https://www.kaggle.com/datasets/yoctoman/jsrt-
 JSRT  ORIGINAL  AND  BONE  SUPPRESSED IMAGES (https://aistudio.baidu.com/aistudio/datasetdetail/234557)
 
 ## Papers Highlights
-You can view them in the file "Papers Highlights.pptx".
+We summarize each bone suppression paper's highlights, and you can view them in the file "Papers Highlights.pptx" if you are interested in them.
