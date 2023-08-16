@@ -27,6 +27,14 @@ We summarize each bone suppression paper's highlights, and you can view them thr
 
 The mainstream method of bone suppression is deep learning, and can be classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation Learning**, **GAN**, **convolutional neural networks**.
 
+## Autoencoder
+
++ **Deep Feature Disentanglement Learning for Bone Suppression in Chest Radiographs**
+
++ *Chunze Lin; Ruixiang Tang; Darryl D. Lin; Langechuan Liu; Jiwen Lu; Yunqiang Chen; Dashan Gao; Jie Zhou*
+
++ ISBI 2020. [[PDF]](https://ieeexplore.ieee.org/document/9098399)
+
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
