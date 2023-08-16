@@ -109,6 +109,23 @@ The mainstream method of bone suppression is deep learning, and can be classifie
 
   IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation)
 
++ **Spatial feature and resolution maximization GAN for bone suppression in chest radiographs**
+
+  *Geeta Rani; Ankit Misra; Vijaypal Singh Dhaka; Ester Zumpano; Eugenio Vocaturo*
+
+  Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722004060)
+
++ **GAN-based disentanglement learning for chest X-ray rib suppression**
+
+  *Luyi Han; Yuanyuan Lyu; Cheng Peng; S. Kevin Zhou*
+
+  Medical Image Analysis 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841522000226?via%3Dihub#bib0002)
+
++ **Applying a Conditional GAN for Bone Suppression in Chest Radiography Images**
+
+  *Hugo Eduardo Ziviani; Guillermo C´amara Ch´avez; Mateus Coelho Silva*
+
+  SBC 2022. [[PDF]](https://sol.sbc.org.br/index.php/semish/article/view/20794)
   
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
