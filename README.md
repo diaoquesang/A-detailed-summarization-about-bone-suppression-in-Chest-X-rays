@@ -20,7 +20,7 @@ Zhanghao Benny Chan's email address is: <czh345068@gmail.com>
 Yifei Sun's email address is: <sxsyf20@163.com>
 
 
-🍻## Bone Suppression Papers
+## 🐈Bone Suppression Papers
 We summarize each bone suppression paper's highlights, and you can view them through the link below if you like.
 
 <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
