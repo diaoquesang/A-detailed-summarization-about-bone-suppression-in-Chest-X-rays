@@ -277,6 +277,11 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 |      MIMIC-CXR     | 2544 × 3056 |                                                 14 diseases (227,943 imaging studies)                                                 |                                   MIT, Beth Israel Deaconess Medical Center (Boston, MA, USA)                                   |  473,057 |                                  https://www.v7labs.com/open-datasets/mimic-cxr                                  |
 |      VinDr-CXR     |    Random   |                      28 findings including TB, pneumonia, cardiomegaly, pleural effusion, lung opacity and others                     |                             The Hospital 108 (H108) and the HMUH (Hanoi Medical University Hospital)                            |  18,000  |                                           https://vindr.ai/datasets/cxr                                          |
 |    COVIDx CXR-3    |    Random   |                                                     Positive and negative COVID-19                                                    | Paper: COVIDx CXR-3: A Large-Scale, Open-Source Benchmark Dataset of Chest X-ray Images for Computer-Aided COVID-19 Diagnostics |  30,386  |                               https://www.kaggle.com/datasets/andyczhao/covidx-cxr2                              |
+
+### Mask
+|  Dataset  |  Resolution |  #  |                                           Link                                          |
+|:---------:|:-----------:|:---:|:---------------------------------------------------------------------------------------:|
+| JSRT Mask | 2048 × 2048 | 240 | https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download |
 ## Diffusion Models Feast
 This section provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
 Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
