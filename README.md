@@ -47,7 +47,7 @@ The mainstream method of bone suppression is deep learning, and can be classifie
 
   *Yunbi Liu; Fengxia Zeng; Mengwei Ma c; Bowen Zheng; Zhaoqiang Yun; Genggeng Qin; Wei Yang; Qianjin Feng*
 
-  Computerized Medical Imaging and Graphics. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611123000046?via%3Dihub)
+  Computerized Medical Imaging and Graphics 2023. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611123000046?via%3Dihub)
 
 ## Domain Adaptation
 
@@ -55,13 +55,13 @@ The mainstream method of bone suppression is deep learning, and can be classifie
 
   *Hugo Oliveira; Virginia Mota; Alexei M.C. Machado; Jefersson A. dos Santos*
 
-  Pattern Recognition Letters. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865520303561?ref=pdf_download&fr=RR-2&rr=7f77f615ea876e5e)
+  Pattern Recognition Letters 2020. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865520303561?ref=pdf_download&fr=RR-2&rr=7f77f615ea876e5e)
 
 + **High-Resolution Chest X-Ray Bone Suppression Using Unpaired CT Structural Priors**
 
   *Han Li; Hu Han; Zeju Li; Lei Wang; Zhe Wu; Jingjing Lu; S. Kevin Zhou*
 
-  IEEE Transactions on Medical Imaging. [[PDF]](https://ieeexplore.ieee.org/document/9058664)
+  IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/9058664)
 
 ## Manual Suppression
 
@@ -70,6 +70,45 @@ The mainstream method of bone suppression is deep learning, and can be classifie
   *S. Juhász; Á. Horváth; L. Nikházy; G. Horváth & Á. Horváth*
 
   XII Mediterranean Conference on Medical and Biological Engineering and Computing 2010. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-642-13039-7_90)
+
+## GAN
+
++ **Generation of Virtual Dual Energy Images from Standard Single-Shot Radiographs using Multi-scale and Conditional Adversarial Network**
+
+  *Bo Zhou; Xunyu Lin; Brendan Eck; Jun Hou; David L. Wilson*
+
+  ACCV 2018. [[PDF]](https://arxiv.org/abs/1810.09354) [[Github]](https://github.com/bbbbbbzhou/Virtual-Dual-Energy)
+
++ **Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks**
+
+  *Dong Yul Oh; Il Dong Yun*
+
+  arxiv 2018. [[PDF]](https://arxiv.org/abs/1811.02628)
+
++ **Dilated conditional GAN for bone suppression in chest radiographs with enforced semantic features**
+
+  *Zhizhen Zhou; Luping Zhou; Kaikai Shen*
+
+  Medical Physics 2020. [[PDF]](https://pubmed.ncbi.nlm.nih.gov/32621786/)
+
++ **Generating Dual-Energy Subtraction Soft-Tissue Images from Chest Radiographs via Bone Edge-Guided GAN**
+
+  *Yunbi Liu; Mingxia Liu; Yuhua Xi; Genggeng Qin; Dinggang Shen; Wei Yang*
+
+  MICCAI 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_65)
+
++ **Bone Suppression on Chest Radiographs With Adversarial Learning**
+
+  *Jia Liang; Yuxing Tang; Youbao Tang; Jing Xiao; Ronald M. Summers*
+
+  Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073)
+
++ **Image-to-Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography**
+
+  *Mohammad Eslami; Solale Tabarestani; Shadi Albarqouni; Ehsan Adeli; Nassir Navab; Malek Adjouadi*
+
+  IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation)
+
   
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
