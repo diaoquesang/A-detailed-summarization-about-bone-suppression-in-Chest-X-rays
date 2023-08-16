@@ -79,7 +79,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   ACCV 2018. [[PDF]](https://arxiv.org/abs/1810.09354) [[Github]](https://github.com/bbbbbbzhou/Virtual-Dual-Energy)
 
-⭐+ **Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks**
++ ⭐**Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks**
 
   *Dong Yul Oh; Il Dong Yun*
 
@@ -91,7 +91,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   Medical Physics 2020. [[PDF]](https://pubmed.ncbi.nlm.nih.gov/32621786/)
 
-+ **Generating Dual-Energy Subtraction Soft-Tissue Images from Chest Radiographs via Bone Edge-Guided GAN**
++ **⭐Generating Dual-Energy Subtraction Soft-Tissue Images from Chest Radiographs via Bone Edge-Guided GAN**
 
   *Yunbi Liu; Mingxia Liu; Yuhua Xi; Genggeng Qin; Dinggang Shen; Wei Yang*
 
@@ -103,13 +103,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073)
 
-+ **Image-to-Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography**
++ **⭐Image-to-Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography**
 
   *Mohammad Eslami; Solale Tabarestani; Shadi Albarqouni; Ehsan Adeli; Nassir Navab; Malek Adjouadi*
 
   IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation)
 
-+ **Spatial feature and resolution maximization GAN for bone suppression in chest radiographs**
++ **⭐Spatial feature and resolution maximization GAN for bone suppression in chest radiographs**
 
   *Geeta Rani; Ankit Misra; Vijaypal Singh Dhaka; Ester Zumpano; Eugenio Vocaturo*
 
@@ -135,13 +135,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722000128?via%3Dihub)
 
-+ **Cascade of multi-scale convolutional neural networks for bone suppression of chest radiographs in gradient domain**
++ **⭐Cascade of multi-scale convolutional neural networks for bone suppression of chest radiographs in gradient domain**
 
   *Wei Yang; Yingyin Chen; Yunbi Liu; Liming Zhong; Genggeng Qin; Zhentai Lu;Qianjin Feng; Wufan Chen*
 
   Medical Image Analysis 2017. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841516301529)
 
-+ **Deep Learning Models for Bone Suppression in Chest Radiographs**
++ **⭐Deep Learning Models for Bone Suppression in Chest Radiographs**
 
   *Maxim Gusarev; Ramil Kuleev; Adil Khan; Adin Ramirez Rivera; Asad Masood Khattak*
 
@@ -165,13 +165,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839)
 
-+ **Bone suppression for chest X-ray image using a convolutional neural filter**
++ **⭐Bone suppression for chest X-ray image using a convolutional neural filter**
 
   *Naoki Matsubara; Atsushi Teramoto, Kuniaki Saito; Hiroshi Fujita*
 
   Physical and Engineering Sciences in Medicine 2020. [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
 
-+ **Improving Tuberculosis Recognition on Bone-Suppressed Chest X-rays Guided by Task-Specific Features**
++ **⭐Improving Tuberculosis Recognition on Bone-Suppressed Chest X-rays Guided by Task-Specific Features**
 
   *Yunbi Liu; Genggeng Qin; Yun Liu; Mingxia Liu; Wei Yang*
 
@@ -203,13 +203,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
    ISBI 2019. [[PDF]](https://ieeexplore.ieee.org/document/8759510)
 
-+ **Evaluation of Deep Learning Method for Bone Suppression from Dual Energy Chest Radiography**
++ **⭐Evaluation of Deep Learning Method for Bone Suppression from Dual Energy Chest Radiography**
 
   *Ilyas Sirazitdinov; Konstantin Kubrak; Semen Kiselev; Alexey Tolkachev; Maksym Kholiavchenko; Bulat Ibragimov*
 
    ICANN 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_20)
 
-+ **Chest X-ray Bone Suppression for Improving Classification of Tuberculosis-Consistent Findings**
++ **⭐Chest X-ray Bone Suppression for Improving Classification of Tuberculosis-Consistent Findings**
 
   *Sivaramakrishnan Rajaraman; Ghada Zamzmi; Les Folio;; Philip Alderson; Sameer Antani*
 
@@ -233,7 +233,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
    Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8408784/)
 
-+ **DeBoNet: A deep bone suppression model ensemble to improve disease detection in chest radiographs**
++ **⭐DeBoNet: A deep bone suppression model ensemble to improve disease detection in chest radiographs**
 
   *Sivaramakrishnan Rajaraman; Gregg Cohen; Lillian Spear; Les Folio; Sameer Antani*
 
