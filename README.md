@@ -39,7 +39,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   
   *Seweryn Kalisz; Michal Marczyk*
 
-  BIBE 2021 [[PDF]](https://ieeexplore.ieee.org/document/9098399)
+  BIBE 2021 [[PDF]](https://ieeexplore.ieee.org/document/9098399) [[Dataset for COVID-19 X-Ray]](https://github.com/lindawangg/COVID-Net) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)                      
 
 ## Distillation Learning
 
@@ -213,7 +213,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Sivaramakrishnan Rajaraman; Ghada Zamzmi; Les Folio;; Philip Alderson; Sameer Antani*
 
-   Diagnostics 2021. [[PDF]](https://www.mdpi.com/2075-4418/11/5/840) [[Github]](https://github.com/sivaramakrishnan-rajaraman/CXR-bone-suppression)
+   Diagnostics 2021. [[PDF]](https://www.mdpi.com/2075-4418/11/5/840) [[Github]](https://github.com/sivaramakrishnan-rajaraman/CXR-bone-suppression) [[Dataset for Montgomery TB CXR]](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-montgomery) [[Dataset for Shenzhen TB CXR]](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)[[Dataset for RSNA CXR]](https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data) [[Dataset for Pediatric pneumonia CXR]]( https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)       
   
 + **Value of bone suppression software in chest radiographs for improving image quality and reducing radiation dose**
 
