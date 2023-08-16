@@ -25,6 +25,7 @@ We summarize each bone suppression paper's highlights, and you can view them thr
 
 <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
 
+The mainstream method of bone suppression is deep learning, and can be classified into 6 + 1(manully) categories roughly, namely autoencoder, domain adaptation, distillation Learning, GAN, convolutional neural networks.
 
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
