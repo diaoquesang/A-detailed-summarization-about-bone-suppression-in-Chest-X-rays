@@ -270,7 +270,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
 
 ## Diffusion Models Feast
-This repository mostly provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
+This section provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
 Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
 
 Now, let's dive into it!
