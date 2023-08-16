@@ -10,17 +10,17 @@
    <img src="https://www.konicaminolta.com/global-en/healthcare/technology/imaging-processing/bs/img/img_technologo_imaging_processing_012.jpg"  width="50%"><img src="https://www.konicaminolta.com/global-en/healthcare/technology/imaging-processing/bs/img/img_technologo_imaging_processing_013.jpg" width="50%">
 </div>
 
-## Introduction
+😍## Introduction
 This homepage lists some representative papers/codes/datasets all about bone suppression. We aim to constantly update the latest relevant papers and help the community track this topic. We also share with you a comprehensive understanding of diffusion models in detail. Please feel free to join us and contribute to the project. If you have any questions, please feel free to contact Zhanghao Benny Chan and Yifei Sun.
 
 
-Zhanghao Benny Chan's email address is: <czh345068@gmail.com>
+🧑‍🤝‍🧑Zhanghao Benny Chan's email address is: <czh345068@gmail.com>
 
 
-Yifei Sun's email address is: <sxsyf20@163.com>
+🧑‍🤝‍🧑Yifei Sun's email address is: <sxsyf20@163.com>
 
 
-## Bone Suppression Papers
+🍻## Bone Suppression Papers
 We summarize each bone suppression paper's highlights, and you can view them through the link below if you like.
 
 <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
