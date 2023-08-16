@@ -21,7 +21,9 @@ Yifei Sun's email address is: <sxsyf20@163.com>
 
 
 ## Bone Suppression Papers
-We summarize each bone suppression paper's highlights, and you can view them through the link <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> if you like.
+We summarize each bone suppression paper's highlights, and you can view them through the link below if you like.
+
+<https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
 
 
 ## Datasets
