@@ -21,14 +21,15 @@ Yifei Sun's email address is: <sxsyf20@163.com>
 
 
 ## Bone Suppression Papers
+We summarize each bone suppression paper's highlights, and you can view them through the link <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> if you like.
+
+
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
 ### Original Chest X-Rays and corresponding bone suppressed images:
 241 paired JSRT  original and bone suppressed images: https://aistudio.baidu.com/aistudio/datasetdetail/234557)
 
-## Papers Highlights
-We summarize each bone suppression paper's highlights, and you can view them in the file "Papers Highlights.pptx" if you like.
 
 
 
