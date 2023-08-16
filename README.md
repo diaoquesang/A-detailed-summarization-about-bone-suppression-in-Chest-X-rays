@@ -289,4 +289,4 @@ There are two parts to this unit, namely Introduction to Diffusers and Diffusion
 
 🧋[[A Survey on Generative Diffusion Models]](https://arxiv.org/abs/2209.02646)
 
-Found more great resources? Let me know and I'll add them to this list.
+Found more great resources? Let us know and we'll add them to this list.
