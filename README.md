@@ -33,7 +33,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Chunze Lin; Ruixiang Tang; Darryl D. Lin; Langechuan Liu; Jiwen Lu; Yunqiang Chen; Dashan Gao; Jie Zhou*
 
-  ISBI 2020. [[PDF]](https://ieeexplore.ieee.org/document/9635451)
+  ISBI 2020. [[PDF]](https://ieeexplore.ieee.org/document/9635451) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **Autoencoder-based bone removal algorithm from x-ray images of the lung**
   
@@ -89,7 +89,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Zhizhen Zhou; Luping Zhou; Kaikai Shen*
 
-  Medical Physics 2020. [[PDF]](https://pubmed.ncbi.nlm.nih.gov/32621786/)
+  Medical Physics 2020. [[PDF]](https://pubmed.ncbi.nlm.nih.gov/32621786/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **⭐Generating Dual-Energy Subtraction Soft-Tissue Images from Chest Radiographs via Bone Edge-Guided GAN**
 
@@ -101,7 +101,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Jia Liang; Yuxing Tang; Youbao Tang; Jing Xiao; Ronald M. Summers*
 
-  Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073)
+  Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073) [[Dataset for RSNA]] (https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)
 
 + **⭐Image-to-Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography**
 
@@ -113,13 +113,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Geeta Rani; Ankit Misra; Vijaypal Singh Dhaka; Ester Zumpano; Eugenio Vocaturo*
 
-  Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722004060)
+  Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722004060) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **GAN-based disentanglement learning for chest X-ray rib suppression**
 
   *Luyi Han; Yuanyuan Lyu; Cheng Peng; S. Kevin Zhou*
 
-  Medical Image Analysis 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841522000226?via%3Dihub#bib0002)
+  Medical Image Analysis 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841522000226?via%3Dihub#bib0002) [[Dataset for LIDC-IDRI]](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)
 
 + **Applying a Conditional GAN for Bone Suppression in Chest Radiography Images**
 
@@ -145,7 +145,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Maxim Gusarev; Ramil Kuleev; Adil Khan; Adin Ramirez Rivera; Asad Masood Khattak*
 
-  CIBCB 2017. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs)
+  CIBCB 2017. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs) [[Dataset for bone suppression]] (https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing)
 
 + **Bone Suppression of Chest Radiographs With Cascaded Convolutional Networks in Wavelet Domain**
 
@@ -163,7 +163,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Ophir Gozes; Hayit Greenspan*
 
-  ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839)
+  ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839) [[Dataset for LIDC-IDRI]] (https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254) [[Dataset for NIH X-Ray14]] (https://www.kaggle.com/datasets/nih-chest-xrays/data)
 
 + **⭐Bone suppression for chest X-ray image using a convolutional neural filter**
 
@@ -243,7 +243,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Ngo Fung Daniel Lam; Hongfei Sun; Liming Song; Dongrong Yang; Shaohua Zhi; Ge Ren; Pak Hei Chou; Shiu Bun Nelson Wan; Man Fung Esther Wong; King Kwong Chan; Hoi Ching Hailey Tsang; Feng-Ming (Spring) Kong; Yì Xiáng J. Wáng; Jing Qin; Lawrence Wing Chi Chan; Michael Ying; Jing Cai*
 
-   Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/)
+   Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
