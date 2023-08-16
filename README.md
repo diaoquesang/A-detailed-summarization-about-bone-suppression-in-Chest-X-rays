@@ -259,7 +259,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 |  Dataset  | Resolution |                       Classes                      |             Collected            | Private or Oublic |   #  |                                    Link                                    |
 |:---------:|:----------:|:--------------------------------------------------:|:--------------------------------:|:-----------------:|:----:|:--------------------------------------------------------------------------:|
 | LIDC-IDRI |   Random   | nodule >or =3mm,nodule < 3mm,non-nodule >or = 3mm  | The Cancer Imaging Archive(TCIA) |       Public      | 1018 | https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254 |
-|   RIDER   |   Random   |                       Cancer                       | The Cancer Imaging Archive(TCIA) |       DICOM       |  154 |     https://wiki.cancerimagingarchive.net/display/public/rider+lung+ct     |
+|   RIDER   |   Random   |                       Cancer                       | The Cancer Imaging Archive(TCIA) |       Public       |  154 |     https://wiki.cancerimagingarchive.net/display/public/rider+lung+ct     |
 ## Diffusion Models Feast
 This section provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
 Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
