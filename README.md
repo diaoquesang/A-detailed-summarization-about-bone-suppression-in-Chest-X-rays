@@ -249,13 +249,17 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
 ### Original Chest X-Rays and corresponding bone suppressed images:
 241 paired JSRT  original and bone suppressed images: https://aistudio.baidu.com/aistudio/datasetdetail/234557)
-
-|     Dataset     |     Size    |       Class      |                  Collected                  | Private or Public |    #    |                                         Link                                         |
+### Dual Energy Subtraction(DES)
+|     Dataset     |     Resolution    |       Class      |                  Collected                  | Private or Public |    #    |                                         Link                                         |
 |:---------------:|:-----------:|:----------------:|:-------------------------------------------:|:-----------------:|:-------:|:------------------------------------------------------------------------------------:|
 |  JSRT/BSE-JSRT  | 2048 × 2048 | Nodule/No Nodule | Japanese Society of Radiological Technology |       Public      |   240   |              https://www.kaggle.com/hmchuong/xray-bone-shadow-supression             |
 | Gusarev M et.al |    Random   |       -----      |               Different online              |       Public      |    35   | https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing |
 | Yunbi Liu et.al |     ----    |       ----       |           Nanfang Hospital, China           |      Private      | 646/504 |                                         ----                                         |
-
+### CT
+|  Dataset  | Resolution |                       Classes                      |             Collected            | Private or Oublic |   #  |                                    Link                                    |
+|:---------:|:----------:|:--------------------------------------------------:|:--------------------------------:|:-----------------:|:----:|:--------------------------------------------------------------------------:|
+| LIDC-IDRI |   Random   | nodule >or =3mm,nodule < 3mm,non-nodule >or = 3mm  | The Cancer Imaging Archive(TCIA) |       Public      | 1018 | https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254 |
+|   RIDER   |   Random   |                       Cancer                       | The Cancer Imaging Archive(TCIA) |       DICOM       |  154 |     https://wiki.cancerimagingarchive.net/display/public/rider+lung+ct     |
 ## Diffusion Models Feast
 This section provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
 Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
