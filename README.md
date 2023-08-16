@@ -25,7 +25,7 @@ We summarize each bone suppression paper's highlights, and you can view them thr
 
 <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
 
-The mainstream method of bone suppression is deep learning, and can be classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation learning**, **GAN**, **convolutional neural networks**. We also add a list of papers of bone suppression applications like calssification, segmentation and detection.
+The mainstream method of bone suppression is deep learning, and can be roughly classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation learning**, **GAN**, **convolutional neural networks**. We also add a list of papers of bone suppression applications like calcification, segmentation, and detection.
 
 ## Autoencoder
 
@@ -185,13 +185,65 @@ The mainstream method of bone suppression is deep learning, and can be classifie
 
 + **Deep learning-based bone suppression in chest radiographs using CT-derived features: a feasibility study**
 
-  *Ge Ren; Haonan Xiao; Sai-Kit Lam; Dongrong Yang; Tian Li; Xinzhi Teng; Jing Qin; and Jing Cai*
+  *Ge Ren; Haonan Xiao; Sai-Kit Lam; Dongrong Yang; Tian Li; Xinzhi Teng; Jing Qin; Jing Cai*
 
    Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611463/)
 
 ## Bone Suppression Application
 
++ **Dual energy subtraction: Principles and clinical applications**
 
+  *Peter Vock; Zsolt Szucs-Farkas*
+
+   European Journal of Radiology 2009. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0720048X09001739)
+
++ **When Does Bone Suppression And Lung Field Segmentation Improve Chest X-Ray Disease Classification?**
+
+  *Ivo M. Baltruschat; Leonhard Steinmeister; Harald Ittrich; Gerhard Adam; Hannes Nickisch; Axel Saalbach; Jens von Berg; Michael Grass; Tobias Knopp*
+
+   ISBI 2019. [[PDF]](https://ieeexplore.ieee.org/document/8759510)
+
++ **Evaluation of Deep Learning Method for Bone Suppression from Dual Energy Chest Radiography**
+
+  *Ilyas Sirazitdinov; Konstantin Kubrak; Semen Kiselev; Alexey Tolkachev; Maksym Kholiavchenko; Bulat Ibragimov*
+
+   ICANN 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_20)
+
++ **Chest X-ray Bone Suppression for Improving Classification of Tuberculosis-Consistent Findings**
+
+  *Sivaramakrishnan Rajaraman; Ghada Zamzmi; Les Folio;; Philip Alderson; Sameer Antani*
+
+   Diagnostics 2021. [[PDF]](https://www.mdpi.com/2075-4418/11/5/840) [[Github]](https://github.com/sivaramakrishnan-rajaraman/CXR-bone-suppression)
+  
++ **Value of bone suppression software in chest radiographs for improving image quality and reducing radiation dose**
+
+  *Gil-Sun Hong; Kyung-Hyun Do; A-Yeon Son; Kyung-Wook Jo; Kwang Pyo Kim; Jihye Yun; Choong Wook Lee*
+
+   European Radiology 2021. [[PDF]](https://link.springer.com/article/10.1007/s00330-020-07596-w)
+  
++ **Bone Suppression on Chest Radiographs for Pulmonary Nodule Detection: Comparison between a Generative Adversarial Network and Dual-Energy Subtraction**
+
+  *Kyungsoo Bae; Dong Yul Oh; Il Dong Yun; and Kyung Nyeo Jeon*
+
+   Korean Journal of Radiology 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743147/)
+
++ **Improved detection of solitary pulmonary nodules on radiographs compared with deep bone suppression imaging**
+
+  *Jiefang Wu; Weiguo Chen; Fengxia Zeng; Le Ma; Weimin Xu; Wei Yang; Genggeng Qin*
+
+   Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8408784/)
+
++ **DeBoNet: A deep bone suppression model ensemble to improve disease detection in chest radiographs**
+
+  *Sivaramakrishnan Rajaraman; Gregg Cohen; Lillian Spear; Les Folio; Sameer Antani*
+
+   PLOS ONE 2022. [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265691) [[Github]](https://github.com/sivaramakrishnan-rajaraman/Bone-Suppresion-Ensemble)
+
++ **Development and validation of bone-suppressed deep learning classification of COVID-19 presentation in chest radiographs**
+
+  *Ngo Fung Daniel Lam; Hongfei Sun; Liming Song; Dongrong Yang; Shaohua Zhi; Ge Ren; Pak Hei Chou; Shiu Bun Nelson Wan; Man Fung Esther Wong; King Kwong Chan; Hoi Ching Hailey Tsang; Feng-Ming (Spring) Kong; Yì Xiáng J. Wáng; Jing Qin; Lawrence Wing Chi Chan; Michael Ying; Jing Cai*
+
+   Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/)
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
