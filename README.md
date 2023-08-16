@@ -270,7 +270,10 @@ There are two parts to this unit, namely Introduction to Diffusers and Diffusion
 ## Some Additional Resources
 ### Bone Suppression
 🎈[[Implementation and evaluation of a bony structure suppression software tool for chest X-ray imaging]](https://open.uct.ac.za/bitstream/handle/11427/11993/thesis_sci_2012_dixon_t.pdf?sequence=1&isAllowed=y)
+
 ✈️[[Bone Suppression Methods of ChestRadiographs Based on Deep ConvolutionalNetworks]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C447WN1SO36whLpCgh0R0Z-iDdIt-WSAdV5IJ_Uy2HKRASwkzLAGLLtVEZ-SelJ51Hxf62QC3j-G2InLwUtUGiZw&uniplatform=NZKPT)
+
+🌼[[Research on bone suppression of chest radiography]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAk-6BvX81hrs37AaEFpExs0H61xq0Ry5eFrgGdZ6duZtCnOvbyB7URSgaHeE75Ii0j&uniplatform=NZKPT)
 ### Diffusion Models
 🚙[[Hugging Face Diffusion Models Course]](https://github.com/huggingface/diffusion-models-class)
 
