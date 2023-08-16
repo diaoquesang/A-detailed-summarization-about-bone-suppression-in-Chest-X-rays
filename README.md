@@ -250,6 +250,11 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 ### Original Chest X-Rays and corresponding bone suppressed images:
 241 paired JSRT  original and bone suppressed images: https://aistudio.baidu.com/aistudio/datasetdetail/234557)
 
+|     Dataset     |            Size            |       Class      |                  Collected                  | Private or Public |    #    |
+|:---------------:|:--------------------------:|:----------------:|:-------------------------------------------:|:-----------------:|:-------:|
+|  JSRT/BSE-JSRT  |          2048*2048         | Nodule/No Nodule | Japanese Society of Radiological Technology |       Public      |   240   |
+| Gusarev M et.al | from 424 * 465 to 660* 775 |       -----      |               Different online              |       Public      |    35   |
+| Yunbi Liu et.al |            ----            |       ----       |           Nanfang Hospital, China           |      Private      | 646/504 |
 
 ## Diffusion Models Feast
 This section provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
