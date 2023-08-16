@@ -101,7 +101,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Jia Liang; Yuxing Tang; Youbao Tang; Jing Xiao; Ronald M. Summers*
 
-  Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073) [[Dataset for RSNA]] (https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)
+  Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073) [[Dataset for RSNA]](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)
 
 + **⭐Image-to-Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography**
 
@@ -145,7 +145,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Maxim Gusarev; Ramil Kuleev; Adil Khan; Adin Ramirez Rivera; Asad Masood Khattak*
 
-  CIBCB 2017. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs) [[Dataset for bone suppression]] (https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing)
+  CIBCB 2017. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs) [[Dataset for bone suppression]](https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing)
 
 + **Bone Suppression of Chest Radiographs With Cascaded Convolutional Networks in Wavelet Domain**
 
@@ -163,7 +163,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Ophir Gozes; Hayit Greenspan*
 
-  ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839) [[Dataset for LIDC-IDRI]] (https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254) [[Dataset for NIH X-Ray14]] (https://www.kaggle.com/datasets/nih-chest-xrays/data)
+  ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839) [[Dataset for LIDC-IDRI]](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254) [[Dataset for NIH X-Ray14]](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 
 + **⭐Bone suppression for chest X-ray image using a convolutional neural filter**
 
