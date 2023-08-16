@@ -79,7 +79,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   ACCV 2018. [[PDF]](https://arxiv.org/abs/1810.09354) [[Github]](https://github.com/bbbbbbzhou/Virtual-Dual-Energy)
 
-+ **Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks**
+⭐+ **Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks**
 
   *Dong Yul Oh; Il Dong Yun*
 
