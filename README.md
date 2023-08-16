@@ -107,7 +107,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Mohammad Eslami; Solale Tabarestani; Shadi Albarqouni; Ehsan Adeli; Nassir Navab; Malek Adjouadi*
 
-  IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation)
+  IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression) [[Dataset for JSRT bone masks]](https://doi.org/10.25919/5c49548be0551)
 
 + **⭐Spatial feature and resolution maximization GAN for bone suppression in chest radiographs**
 
