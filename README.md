@@ -246,13 +246,14 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
    Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 ## Datasets
 ### Original Chest X-Rays and corresponding bone suppressed images:
-241 paired JSRT  original and bone suppressed images: https://aistudio.baidu.com/aistudio/datasetdetail/234557)
 ### Dual Energy Subtraction(DES)
 |     Dataset     |     Resolution    |       Class      |                  Collected                  | Private or Public |    #    |                                         Link                                         |
 |:---------------:|:-----------:|:----------------:|:-------------------------------------------:|:-----------------:|:-------:|:------------------------------------------------------------------------------------:|
 |  JSRT/BSE-JSRT  | 2048 × 2048 | Nodule/No Nodule | Japanese Society of Radiological Technology |       Public      |   247/240   |              https://www.kaggle.com/hmchuong/xray-bone-shadow-supression             |
 | Gusarev M et.al |    Random   |       -----      |               Different online              |       Public      |    35   | https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing |
 | Yunbi Liu et.al |     ----    |       ----       |           Nanfang Hospital, China           |      Private      | 646/504 |                                         ----                                         |
+
+For 240 paired JSRT original and bone suppressed images, you can also visit this [[website]](https://aistudio.baidu.com/aistudio/datasetdetail/234557).
 ### CT
 |  Dataset  | Resolution |                       Classes                      |             Collected            | Private or Oublic |   #  |                                    Link                                    |
 |:---------:|:----------:|:--------------------------------------------------:|:--------------------------------:|:-----------------:|:----:|:--------------------------------------------------------------------------:|
