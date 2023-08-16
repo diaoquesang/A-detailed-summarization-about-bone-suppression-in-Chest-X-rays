@@ -171,14 +171,23 @@ The mainstream method of bone suppression is deep learning, and can be classifie
 
   Physical and Engineering Sciences in Medicine 2020. [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
 
-+ **Bone suppression for chest X-ray image using a convolutional neural filter**
++ **Improving Tuberculosis Recognition on Bone-Suppressed Chest X-rays Guided by Task-Specific Features**
 
-  *Naoki Matsubara; Atsushi Teramoto, Kuniaki Saito; Hiroshi Fujita*
+  *Yunbi Liu; Genggeng Qin; Yun Liu; Mingxia Liu; Wei Yang*
 
-  Physical and Engineering Sciences in Medicine 2020. [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
-  
+  PRIME 2021. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_6)
 
-  
++ **Isometric Convolutional Neural Networks for Bone Suppression of Multi-Planar Dual Energy Chest Radiograph**
+
+  *Yossathorn Tianrungroj; Iba Hitoshi*
+
+  IIAIAAI 2022. [[PDF]](https://ieeexplore.ieee.org/document/9894637)
+
++ **Deep learning-based bone suppression in chest radiographs using CT-derived features: a feasibility study**
+
+  *Ge Ren; Haonan Xiao; Sai-Kit Lam; Dongrong Yang; Tian Li; Xinzhi Teng; Jing Qin; and Jing Cai*
+
+   Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611463/)
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
