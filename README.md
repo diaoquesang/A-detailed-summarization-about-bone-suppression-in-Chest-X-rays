@@ -126,7 +126,34 @@ The mainstream method of bone suppression is deep learning, and can be classifie
   *Hugo Eduardo Ziviani; Guillermo C´amara Ch´avez; Mateus Coelho Silva*
 
   SBC 2022. [[PDF]](https://sol.sbc.org.br/index.php/semish/article/view/20794)
-  
+
+## Convolutional Neural Network
+
++ **Bone suppression on pediatric chest radiographs via a deep learning-based cascade model**
+
+  *Kyungjin Cho; Jiyeon Seo; Sunggu Kyung; Mingyu Kim; Gil-Sun Hong; Namkug Kim*
+
+  Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722000128?via%3Dihub)
+
++ **Cascade of multi-scale convolutional neural networks for bone suppression of chest radiographs in gradient domain**
+
+  *Wei Yang; Yingyin Chen; Yunbi Liu; Liming Zhong; Genggeng Qin; Zhentai Lu;Qianjin Feng; Wufan Chen*
+
+  Medical Image Analysis 2017. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841516301529)
+
++ **Deep Learning Models for Bone Suppression in Chest Radiographs**
+
+  *Maxim Gusarev; Ramil Kuleev; Adil Khan; Adin Ramirez Rivera; Asad Masood Khattak*
+
+  CIBCB 2017. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs)
+
++ **Bone Suppression of Chest Radiographs With Cascaded Convolutional Networks in Wavelet Domain**
+
+  *Yingyin Chen; Xiaofang Gou; Xiuxia Feng; Yunbi Liu; Genggeng Qin; Qianjin Feng; Wei Yang; Wufan Chen*
+
+  IEEE ACCESS 2019. [[PDF]](https://ieeexplore.ieee.org/document/8604005)
+
+
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
