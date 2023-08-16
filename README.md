@@ -25,16 +25,44 @@ We summarize each bone suppression paper's highlights, and you can view them thr
 
 <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
 
-The mainstream method of bone suppression is deep learning, and can be classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation Learning**, **GAN**, **convolutional neural networks**.
+The mainstream method of bone suppression is deep learning, and can be classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation learning**, **GAN**, **convolutional neural networks**.
 
 ## Autoencoder
 
 + **Deep Feature Disentanglement Learning for Bone Suppression in Chest Radiographs**
 
-+ *Chunze Lin; Ruixiang Tang; Darryl D. Lin; Langechuan Liu; Jiwen Lu; Yunqiang Chen; Dashan Gao; Jie Zhou*
+  *Chunze Lin; Ruixiang Tang; Darryl D. Lin; Langechuan Liu; Jiwen Lu; Yunqiang Chen; Dashan Gao; Jie Zhou*
 
-+ ISBI 2020. [[PDF]](https://ieeexplore.ieee.org/document/9098399)
+  ISBI 2020. [[PDF]](https://ieeexplore.ieee.org/document/9635451)
 
++ **Autoencoder-based bone removal algorithm from x-ray images of the lung**
+  
+  *Seweryn Kalisz; Michal Marczyk*
+
+  BIBE 2021 [[PDF]](https://ieeexplore.ieee.org/document/9098399)
+
+## Distillation Learning
+
++ **Bone suppression of lateral chest x-rays with imperfect and limited dual-energy subtraction images**
+
+  *Yunbi Liu; Fengxia Zeng; Mengwei Ma c; Bowen Zheng; Zhaoqiang Yun; Genggeng Qin; Wei Yang; Qianjin Feng*
+
+  Computerized Medical Imaging and Graphics. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611123000046?via%3Dihub)
+
+## Domain Adaptation
+
++ **From 3D to 2D: Transferring knowledge for rib segmentation in chest X-rays**
+
+  *Hugo Oliveira; Virginia Mota; Alexei M.C. Machado; Jefersson A. dos Santos*
+
+  Pattern Recognition Letters. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865520303561?ref=pdf_download&fr=RR-2&rr=7f77f615ea876e5e)
+
++ **High-Resolution Chest X-Ray Bone Suppression Using Unpaired CT Structural Priors**
+
+  *Han Li; Hu Han; Zeju Li; Lei Wang; Zhe Wu; Jingjing Lu; S. Kevin Zhou*
+
+  IEEE Transactions on Medical Imaging. [[PDF]](https://ieeexplore.ieee.org/document/9058664)
+  
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
