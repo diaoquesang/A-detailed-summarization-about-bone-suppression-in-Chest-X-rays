@@ -20,6 +20,7 @@ Zhanghao Benny Chan's email address is: <czh345068@gmail.com>
 Yifei Sun's email address is: <sxsyf20@163.com>
 
 
+## Bone Suppression Papers
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
