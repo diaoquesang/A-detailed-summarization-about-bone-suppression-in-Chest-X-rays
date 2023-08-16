@@ -153,7 +153,32 @@ The mainstream method of bone suppression is deep learning, and can be classifie
 
   IEEE ACCESS 2019. [[PDF]](https://ieeexplore.ieee.org/document/8604005)
 
++ **Separation of bones from soft tissue in chest radiographs: Anatomy-specific orientation-frequency-specific deep neural network convolution**
 
+  *Amin Zarshenas; Junchi Liu; Paul Forti; Kenji Suzuki*
+
+  Medical Physics 2020. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510604/)
+
++ **Bone Structures Extraction and Enhancement in Chest Radiographs via CNN Trained on Synthetic Data**
+
+  *Ophir Gozes; Hayit Greenspan*
+
+  ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839)
+
++ **Bone suppression for chest X-ray image using a convolutional neural filter**
+
+  *Naoki Matsubara; Atsushi Teramoto, Kuniaki Saito; Hiroshi Fujita*
+
+  Physical and Engineering Sciences in Medicine 2020. [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
+
++ **Bone suppression for chest X-ray image using a convolutional neural filter**
+
+  *Naoki Matsubara; Atsushi Teramoto, Kuniaki Saito; Hiroshi Fujita*
+
+  Physical and Engineering Sciences in Medicine 2020. [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
+  
+
+  
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
 241 paired JSRT  origianl and bone masks: https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download)
