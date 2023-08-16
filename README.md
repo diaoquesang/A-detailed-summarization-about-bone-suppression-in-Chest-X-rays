@@ -62,6 +62,14 @@ The mainstream method of bone suppression is deep learning, and can be classifie
   *Han Li; Hu Han; Zeju Li; Lei Wang; Zhe Wu; Jingjing Lu; S. Kevin Zhou*
 
   IEEE Transactions on Medical Imaging. [[PDF]](https://ieeexplore.ieee.org/document/9058664)
+
+## Manual Suppression
+
++ **Segmentation of Anatomical Structures on Chest Radiographs**
+
+  *S. Juhász; Á. Horváth; L. Nikházy; G. Horváth & Á. Horváth*
+
+  XII Mediterranean Conference on Medical and Biological Engineering and Computing 2010. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-642-13039-7_90)
   
 ## Datasets
 ### Original Chest X-Rays and corresponding bone masks:
