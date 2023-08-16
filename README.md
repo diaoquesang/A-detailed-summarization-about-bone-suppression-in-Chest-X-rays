@@ -252,8 +252,8 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
 |     Dataset     |            Size            |       Class      |                  Collected                  | Private or Public |    #    |
 |:---------------:|:--------------------------:|:----------------:|:-------------------------------------------:|:-----------------:|:-------:|
-|  JSRT/BSE-JSRT  |          2048*2048         | Nodule/No Nodule | Japanese Society of Radiological Technology |       Public      |   240   |
-| Gusarev M et.al | from 424 * 465 to 660* 775 |       -----      |               Different online              |       Public      |    35   |
+|  JSRT/BSE-JSRT  |          2048 x 2048         | Nodule/No Nodule | Japanese Society of Radiological Technology |       Public      |   240   |
+| Gusarev M et.al | from 424 x 465 to 660 x 775 |       -----      |               Different online              |       Public      |    35   |
 | Yunbi Liu et.al |            ----            |       ----       |           Nanfang Hospital, China           |      Private      | 646/504 |
 
 ## Diffusion Models Feast
