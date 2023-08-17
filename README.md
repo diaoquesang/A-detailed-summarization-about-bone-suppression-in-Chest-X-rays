@@ -71,6 +71,8 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   XII Mediterranean Conference on Medical and Biological Engineering and Computing 2010. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-642-13039-7_90)
 
+  **By the way, BSE-JSRT dataset was just created by using this method!**
+
 ## GAN
 
 + **Generation of Virtual Dual Energy Images from Standard Single-Shot Radiographs using Multi-scale and Conditional Adversarial Network**
