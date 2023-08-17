@@ -283,7 +283,7 @@ For 240 paired JSRT original and bone suppressed images, you can also visit this
 | JSRT Mask | 2048 × 2048 | 240 | https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download |
 ## Diffusion Models Feast
 This section provides a detailed description of the diffusion model (including code explanations, paper readings, etc.).
-Most of the materials are from Hugging Face Diffusion Models Course(https://github.com/huggingface/diffusion-models-class)
+Most of the materials are from [[Hugging Face Diffusion Models Course]](https://github.com/huggingface/diffusion-models-class)
 
 Now, let's dive into it!
 
