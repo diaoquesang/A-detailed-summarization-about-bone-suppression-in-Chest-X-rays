@@ -245,7 +245,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
    Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 ## Datasets
-### Original Chest X-Rays and corresponding bone suppressed images:
+
 ### Dual Energy Subtraction(DES)
 |     Dataset     |     Resolution    |       Class      |                  Collected                  | Private or Public |    #    |                                         Link                                         |
 |:---------------:|:-----------:|:----------------:|:-------------------------------------------:|:-----------------:|:-------:|:------------------------------------------------------------------------------------:|
