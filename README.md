@@ -25,7 +25,7 @@ We summarize each bone suppression paper's highlights, and you can view them thr
 
 <https://docs.google.com/presentation/d/1KBkojHk-a7lGJuLotS6myb6UeifyTi9q/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
 
-The mainstream method of bone suppression is deep learning, and can be roughly classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation learning**, **GAN**, **convolutional neural networks**. We also add a list of papers of bone suppression applications like calcification, segmentation, and detection.
+The mainstream method of bone suppression is deep learning, and can be roughly classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation learning**, **GAN**, **convolutional neural networks**. We also add a list of papers of bone suppression applications like calcification, segmentation, and detection. More details are listed in https://docs.google.com/spreadsheets/d/1Ip1XWtMDotmN-i82OPshxOWj1SnD7Ncl/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true
 
 ## Autoencoder
 
