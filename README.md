@@ -279,7 +279,7 @@ For 240 paired JSRT original and bone suppressed images, you can also visit this
 |      VinDr-CXR     |    Random   |                      28 findings including TB, pneumonia, cardiomegaly, pleural effusion, lung opacity and others                     |                             The Hospital 108 (H108) and the HMUH (Hanoi Medical University Hospital)                            |  18,000  |                                           https://vindr.ai/datasets/cxr                                          |
 |    COVIDx CXR-3    |    Random   |                                                     Positive and negative COVID-19                                                    | Paper: COVIDx CXR-3: A Large-Scale, Open-Source Benchmark Dataset of Chest X-ray Images for Computer-Aided COVID-19 Diagnostics |  30,386  |                               https://www.kaggle.com/datasets/andyczhao/covidx-cxr2                              |
 
-
+**Obviously, there must have other ChestX-Ray datsets which are not displayed in this table. Let us know and we'll add them to this list if you find them.**
 **By the way, [T. Weber et al.](https://arxiv.org/abs/2303.11224) provides an API called [MaCheX](https://github.com/saiboxx/machex) which is a composition of mutliple public chest radiography datasets.**
 ### Mask
 |  Dataset  |  Resolution |  #  |                                           Link                                          |
