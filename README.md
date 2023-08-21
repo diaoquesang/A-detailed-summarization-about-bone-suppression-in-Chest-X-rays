@@ -312,6 +312,8 @@ There are two parts to this unit, namely Introduction to Diffusers and Diffusion
 ### Diffusion Models
 🚙[[Hugging Face Diffusion Models Course]](https://github.com/huggingface/diffusion-models-class)
 
+🍋[[The Annotated Diffusion Model]](https://huggingface.co/blog/annotated-diffusion)
+
 ☕[[AI Coffee Break video on Diffusion Models]](https://www.youtube.com/watch?v=344w5h24-h8)
 
 🏋️‍♂️[[Lil’Log about Diffusion Models]](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
