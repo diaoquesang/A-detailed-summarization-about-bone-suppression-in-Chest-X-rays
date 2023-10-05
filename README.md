@@ -246,6 +246,12 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   *Ngo Fung Daniel Lam; Hongfei Sun; Liming Song; Dongrong Yang; Shaohua Zhi; Ge Ren; Pak Hei Chou; Shiu Bun Nelson Wan; Man Fung Esther Wong; King Kwong Chan; Hoi Ching Hailey Tsang; Feng-Ming (Spring) Kong; Yì Xiáng J. Wáng; Jing Qin; Lawrence Wing Chi Chan; Michael Ying; Jing Cai*
 
    Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
+
++ **Development and Validation of a Deep Learning–Based Synthetic Bone-Suppressed Model for Pulmonary Nodule Detection in Chest Radiographs**
+  
+  *Hwiyoung Kim; Kye Ho Lee; Kyunghwa Han, PhD; Ji Won Lee; Jin Young Kim; Dong Jin Im; Yoo Jin Hong; Byoung Wook Choi; Jin Hur, MD, PhD*
+
+  JAMA Network Open 2023. [[PDF]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800846) 
 ## Datasets
 
 ### Dual Energy Subtraction(DES)
