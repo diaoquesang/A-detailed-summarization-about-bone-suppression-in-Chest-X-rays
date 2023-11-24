@@ -26,7 +26,6 @@ We summarize each bone suppression and diffusion models based papers' highlights
 <https://docs.google.com/presentation/d/1JTPUMrqcJ3FQLsop_rtFtiW4e7onhxoK/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true> 
 
 The mainstream method of bone suppression is deep learning, and can be roughly classified into **5 + 1 (manual suppression)** categories roughly, namely **autoencoder**, **domain adaptation**, **distillation learning**, **GAN**, **convolutional neural networks**. We also add a list of papers of bone suppression applications like calcification, segmentation, and detection. More details are listed in https://docs.google.com/spreadsheets/d/1Ip1XWtMDotmN-i82OPshxOWj1SnD7Ncl/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true
-
 ## Autoencoder
 
 + **Deep Feature Disentanglement Learning for Bone Suppression in Chest Radiographs**
