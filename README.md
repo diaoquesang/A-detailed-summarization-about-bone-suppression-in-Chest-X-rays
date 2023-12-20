@@ -1,4 +1,4 @@
-![image](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays/assets/104205136/0d2bbbc3-4d9c-43ad-976a-4444225f091d)# A detailed summarization about bone suppression in Chest X-rays
+# A detailed summarization about bone suppression in Chest X-rays
 
 ![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Awesome-FC60A8?style=flat-square&logo=Awesome&logoColor=FFFFFF)
