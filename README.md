@@ -302,7 +302,7 @@ For 240 paired JSRT original and bone suppressed images, you can also visit this
 | JSRT Mask | 2048 × 2048 | 240 | https://www.kaggle.com/datasets/yoctoman/jsrt-original-and-bone-masks?resource=download |
 
 ## Acknowledges
-Thanks to Junjie Wang(<zayn_wang@163.com>) for providing us with more public CXR datasets!
+Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public CXR datasets!
 
 
 ## Some Additional Resources
