@@ -190,6 +190,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
    Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611463/)
 
++ **Chest tomosynthesis image enhancement by bone suppression using convolutional neural networks with synthetic data**
+
+  *Xiaotong Xu, Qian Li, Shuang Jin, Zhe Su, Yu Zhang*
+
+  Journal of Radiation Research and Applied Sciences. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1687850724000505?ref=pdf_download&fr=RR-2&rr=87277b24a85d3fcf)
+
+
 ## Bone Suppression Application
 
 + **Dual energy subtraction: Principles and clinical applications**
