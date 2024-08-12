@@ -126,7 +126,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Hugo Eduardo Ziviani; Guillermo C´amara Ch´avez; Mateus Coelho Silva*
 
-  SBC 2022. [[PDF]](https://sol.sbc.org.br/index.php/semish/article/view/20794)
+  Anais do XLIX Seminário Integrado de Software e Hardware 2022. [[PDF]](https://sol.sbc.org.br/index.php/semish/article/view/20794)
 
 + **Cycle-generative adversarial network-based bone suppression imaging for highly accurate markerless motion tracking of lung tumors for cyberknife irradiation therapy**
    
