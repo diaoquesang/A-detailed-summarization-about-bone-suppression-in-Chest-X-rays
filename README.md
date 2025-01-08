@@ -133,6 +133,12 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   *Zennosuke Mochizuki, Masahide Saito, Toshihiro Suzuki, Koji Mochizuki, Junichi Hasegawa, Hikaru Nemoto, Kenichiro Satani, Hiroshi Takahashi, Hiroshi Onishi*
 
   Journal of Applied Clinical Medical Physics 2023. [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/acm2.14212)
+
++ **CycleGAN Based Bone Suppression Techniques for Standard CXR Images**
+
+  *V.Santhosh Kumar Tangudu, Jagadeesh Kakarla, A.Sam Prabhu & Bala Vikranth Kumar*
+  
+   Pattern Recognition 2024. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_19)
   
 ## Convolutional Neural Network
 
