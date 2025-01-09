@@ -339,3 +339,6 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 🌼[[Research on bone suppression of chest radiography]](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C475KOm_zrgu4lQARvep2SAk-6BvX81hrs37AaEFpExs0H61xq0Ry5eFrgGdZ6duZtCnOvbyB7URSgaHeE75Ii0j&uniplatform=NZKPT)
 
 ⛲[[Metting Notes of RSNA 2018: Multi-stage deep disassembling networks for generating bone-only and tissue-only images from chest radiographs]](https://docs.google.com/presentation/d/1dZB_IyeX4cto3Ly_H0VwtnyWjkqqAzdt/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)
+
+⛲[[CNN-ENABLED BONE SHADOW SUPPRESSION IN X-RAY IMAGING]]
+（https://scholarworks.calstate.edu/concern/projects/8g84mw45f）
