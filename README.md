@@ -275,7 +275,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   
   *Hwiyoung Kim; Kye Ho Lee; Kyunghwa Han, PhD; Ji Won Lee; Jin Young Kim; Dong Jin Im; Yoo Jin Hong; Byoung Wook Choi; Jin Hur, MD, PhD*
 
-  JAMA Network Open 2023. [[PDF]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800846) 
+  JAMA Network Open 2023. [[PDF]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800846)
+  
++ **BSD: A multi-task framework for pulmonary disease classification using deep learning**
+
+  *Sanli Yi, Shenglin Qin, Furong She, Dangguo Shao*
+
+  Expert Systems With Applications 2025. [[PDF]](https://www.sciencedirect.com/science/article/pii/S095741742402222X)
 ## Datasets
 
 ### Dual Energy Subtraction(DES)
