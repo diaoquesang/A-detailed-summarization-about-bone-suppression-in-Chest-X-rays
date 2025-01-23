@@ -1,4 +1,4 @@
-# Bone suppression in Chest X-rays: A deep survey(Keep on updating)
+# Bone suppression in Chest X-rays: A deep survey (Keep on updating)
 
 ![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/-Awesome-FC60A8?style=flat-square&logo=Awesome&logoColor=FFFFFF)
