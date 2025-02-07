@@ -349,6 +349,5 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 🤗[[CNN-ENABLED BONE SHADOW SUPPRESSION IN X-RAY IMAGING]]（https://scholarworks.calstate.edu/concern/projects/8g84mw45f）
 
 ## Star History
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&type=Timeline)](https://star-history.com/#diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&Timeline)
