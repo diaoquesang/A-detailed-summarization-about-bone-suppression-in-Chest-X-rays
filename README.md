@@ -282,6 +282,12 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   *Sanli Yi, Shenglin Qin, Furong She, Dangguo Shao*
 
   Expert Systems With Applications 2025. [[PDF]](https://www.sciencedirect.com/science/article/pii/S095741742402222X)
+
++ **Rib suppression-based radiomics for diagnosis of neonatal respiratory distress syndrome in chest X-rays**
+
+  *Yudong Wang, Zongjin Qu, Zhengjun Dai, Yuhong Li, Yanyan Liu, Wei Wang, Lianxiang Xiao, Yi Zhang*
+
+  Scientific Reports 2025. [[PDF]](https://www.nature.com/articles/s41598-025-88982-6)
 ## Datasets
 
 ### Dual Energy Subtraction(DES)
