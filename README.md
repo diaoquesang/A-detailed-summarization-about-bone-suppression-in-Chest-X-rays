@@ -1,10 +1,12 @@
 # Bone suppression in Chest X-rays: A deep survey (Keep on updating)
 
-![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Awesome-FC60A8?style=flat-square&logo=Awesome&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=FFFFFF)
+<div align="center">
+  
+[![](https://img.shields.io/github/stars/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)
+[![](https://img.shields.io/github/forks/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)
+[![](https://img.shields.io/github/issues/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)
+[![](https://img.shields.io/github/license/Bdiaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays) 
+</div>
 
 <div align="center">
    <img src="https://www.konicaminolta.com/global-en/healthcare/technology/imaging-processing/bs/img/img_technologo_imaging_processing_012.jpg"  width="50%"><img src="https://www.konicaminolta.com/global-en/healthcare/technology/imaging-processing/bs/img/img_technologo_imaging_processing_013.jpg" width="50%">
