@@ -5,7 +5,7 @@
 [![](https://img.shields.io/github/stars/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)
 [![](https://img.shields.io/github/forks/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)
 [![](https://img.shields.io/github/issues/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)
-[![](https://img.shields.io/github/license/Bdiaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays) 
+[![](https://img.shields.io/github/license/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays)](https://github.com/diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays) 
 </div>
 
 <div align="center">
