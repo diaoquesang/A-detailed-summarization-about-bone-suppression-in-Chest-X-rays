@@ -142,6 +142,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   
    Pattern Recognition 2024. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_19)
   
++ **BLS-GAN: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs**
+
+  Haolin Wang, Yafei Ou, Prasoon Ambalathankandy, Gen Ota, Pengyu Dai, Masayuki Ikebe, Kenji Suzuki, Tamotsu Kamishima
+
+  The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25) 2025. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32826)
+  
+  
 ## Convolutional Neural Network
 
 + **Bone suppression on pediatric chest radiographs via a deep learning-based cascade model**
