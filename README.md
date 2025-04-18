@@ -227,7 +227,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   Weijie Xie, Mengkun Gan, Xiaocong Tan, Mujiao Li, Wei Yang
   
-  Medical Physics 2025. [[PDF]](Wenhui Wang1,2https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17516)
+  Medical Physics 2025. [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17516)
 
 
 ## Bone Suppression Application
