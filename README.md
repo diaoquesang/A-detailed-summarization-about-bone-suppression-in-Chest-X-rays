@@ -223,6 +223,12 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   Biomedical Signal Processing and Control 2025. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424010413)
 
++ **Efficient labeling for fine-tuning chest X-ray bone-suppression networks for pediatric patients**
+
+  Weijie Xie, Mengkun Gan, Xiaocong Tan, Mujiao Li, Wei Yang
+  
+  Medical Physics 2025. [[PDF]](Wenhui Wang1,2https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17516)
+
 
 ## Bone Suppression Application
 
