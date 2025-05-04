@@ -148,6 +148,12 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25) 2025. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32826)
   
++ **Improving CXR Bone Suppression by Exploiting Domain-level and Instance-level Information**
+
+  Ling Yang, Zhenghao Chen, Kaisiyuan Wang, Luping Zhou
+
+  IEEE Transactions on Medical Imaging 2025. [[PDF]](https://ieeexplore.ieee.org/document/10979245)
+  
   
 ## Convolutional Neural Network
 
