@@ -19,7 +19,7 @@ This homepage lists some representative papers/codes/datasets all about bone sup
 Zhanghao Chen's email address is: <czh345068@gmail.com> or <bennychan@hdu.edu.cn>
 
 
-Yifei Sun's email address is: <sxsyf20@163.com>
+Yifei Sun's email address is: <diaoquesang@gmail.com> or <szhsxhsyf@hdu.edu.com>
 
 
 ## 🐈Bone Suppression Papers
