@@ -373,6 +373,11 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 ⛲[[Metting Notes of RSNA 2018: Multi-stage deep disassembling networks for generating bone-only and tissue-only images from chest radiographs]](https://docs.google.com/presentation/d/1dZB_IyeX4cto3Ly_H0VwtnyWjkqqAzdt/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)
 
 🤗[[CNN-enabled bone shadow suppression in X-Ray imaging]](https://scholarworks.calstate.edu/concern/projects/8g84mw45f)
+### Diffusion Model
+🎈LeFusion：可控合成医学数据的病灶聚焦扩散模型，其关键创新在于模型仅生成病灶部分，从而确保生成图像与掩码的精准对齐。LeFusion 也是我们最近一个比较完整的系统工作，代码和模型已经完整开源，欢迎大家查阅交流！
+[[论文]](https://openreview.net/forum?id=3b9SKkRAKw)
+[[代码]](https://github.com/M3DV/LeFusion)
+[[录制: HIT Webinar ICLR'25 Spotlight 张瀚韬 密码：F2DN]](https://meeting.tencent.com/crm/NgdZ7eoJ08)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&type=Timeline)](https://star-history.com/#diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&Timeline)
