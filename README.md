@@ -362,7 +362,6 @@ For 240 paired JSRT original and bone suppressed images, you can also visit this
 ## Acknowledges
 Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public CXR datasets!
 
-
 ## Some Additional Resources
 ### Bone Suppression
 🎈[[Implementation and evaluation of a bony structure suppression software tool for chest X-ray imaging]](https://open.uct.ac.za/bitstream/handle/11427/11993/thesis_sci_2012_dixon_t.pdf?sequence=1&isAllowed=y)
@@ -373,8 +372,7 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 
 ⛲[[Metting Notes of RSNA 2018: Multi-stage deep disassembling networks for generating bone-only and tissue-only images from chest radiographs]](https://docs.google.com/presentation/d/1dZB_IyeX4cto3Ly_H0VwtnyWjkqqAzdt/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true)
 
-🤗[[CNN-ENABLED BONE SHADOW SUPPRESSION IN X-RAY IMAGING]]（https://scholarworks.calstate.edu/concern/projects/8g84mw45f）
-
+🤗[[CNN-enabled bone shadow suppression in X-Ray imaging]](https://scholarworks.calstate.edu/concern/projects/8g84mw45f)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&type=Timeline)](https://star-history.com/#diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays&Timeline)
