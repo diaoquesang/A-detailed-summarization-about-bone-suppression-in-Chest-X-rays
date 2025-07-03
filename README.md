@@ -1,4 +1,4 @@
-# Bone suppression in Chest X-rays: A deep survey (Keep on updating)
+# Bone Suppression in Chest X-Rays: A deep Survey (Keep on updating)
 
 <div align="center">
   
