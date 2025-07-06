@@ -392,7 +392,7 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
   organization={IEEE}
 }
 ```
-### Under Review - BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models
+### JBHI 2025 - BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models
 ```
 @article{sun2024bs,
   title={BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models},
