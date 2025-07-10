@@ -381,6 +381,16 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 
 ## Citation
 
+### JBHI 2025 - BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models
+```
+@article{sun2025bs,
+  title={BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models},
+  author={Sun, Yifei and Chen, Zhanghao and Zheng, Hao and Ge, Ruiquan and Liu, Jin and Min, Wenwen and Elazab, Ahmed and Wan, Xiang and Wang, Changmiao},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025}
+  publisher={IEEE}
+}
+```
 ### ISBI 2024 (Oral) - BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images
 ```
 @inproceedings{chen2024bs,
@@ -392,16 +402,7 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
   organization={IEEE}
 }
 ```
-### JBHI 2025 - BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models
-```
-@article{sun2025bs,
-  title={BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models},
-  author={Sun, Yifei and Chen, Zhanghao and Zheng, Hao and Ge, Ruiquan and Liu, Jin and Min, Wenwen and Elazab, Ahmed and Wan, Xiang and Wang, Changmiao},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2025}
-  publisher={IEEE}
-}
-```
+
 
 ## Star History
 
