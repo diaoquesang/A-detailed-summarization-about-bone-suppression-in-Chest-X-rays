@@ -394,7 +394,7 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 ### ISBI 2024 (Oral) - BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images
 ```
 @inproceedings{chen2024bs,
-  title={BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images},
+  title={Bs-diff: Effective bone suppression using conditional diffusion models from chest x-ray images},
   author={Chen, Zhanghao and Sun, Yifei and Ge, Ruiquan and Qin, Wenjian and Pan, Cheng and Deng, Wenming and Liu, Zhou and Min, Wenwen and Elazab, Ahmed and Wan, Xiang and others},
   booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
   pages={1--5},
