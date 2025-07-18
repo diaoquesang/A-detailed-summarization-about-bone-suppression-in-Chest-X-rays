@@ -36,7 +36,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Yifei Sun; Zhanghao Chen; Hao Zheng; Wenming Deng; Jin Liu; Wenwen Min; Ahmed Elazab; Xiang Wan; Changmiao Wang; Ruiquan Ge*
 
-  JBHI 2025. [[PDF]](https://ieeexplore.ieee.org/document/11079814) [[Code]](https://github.com/diaoquesang/BS-LDM)
+  JBHI 2025 [[PDF]](https://ieeexplore.ieee.org/document/11079814) [[Code]](https://github.com/diaoquesang/BS-LDM)
   
 + **⭐ BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images**
   
@@ -51,7 +51,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Chunze Lin; Ruixiang Tang; Darryl D. Lin; Langechuan Liu; Jiwen Lu; Yunqiang Chen; Dashan Gao; Jie Zhou*
 
-  ISBI 2020. [[PDF]](https://ieeexplore.ieee.org/document/9635451) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
+  ISBI 2020 [[PDF]](https://ieeexplore.ieee.org/document/9635451) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **Autoencoder-based bone removal algorithm from x-ray images of the lung**
   
@@ -65,7 +65,7 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Yunbi Liu; Fengxia Zeng; Mengwei Ma c; Bowen Zheng; Zhaoqiang Yun; Genggeng Qin; Wei Yang; Qianjin Feng*
 
-  Computerized Medical Imaging and Graphics 2023. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611123000046?via%3Dihub)
+  Computerized Medical Imaging and Graphics 2023 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0895611123000046?via%3Dihub)
 
 ## Domain Adaptation
 
@@ -73,13 +73,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Hugo Oliveira; Virginia Mota; Alexei M.C. Machado; Jefersson A. dos Santos*
 
-  Pattern Recognition Letters 2020. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865520303561?ref=pdf_download&fr=RR-2&rr=7f77f615ea876e5e)
+  Pattern Recognition Letters 2020 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0167865520303561?ref=pdf_download&fr=RR-2&rr=7f77f615ea876e5e)
 
 + **High-Resolution Chest X-Ray Bone Suppression Using Unpaired CT Structural Priors**
 
   *Han Li; Hu Han; Zeju Li; Lei Wang; Zhe Wu; Jingjing Lu; S. Kevin Zhou*
 
-  IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/9058664)
+  IEEE Transactions on Medical Imaging 2020 [[PDF]](https://ieeexplore.ieee.org/document/9058664)
 
 ## Manual Suppression
 
@@ -97,79 +97,79 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Bo Zhou; Xunyu Lin; Brendan Eck; Jun Hou; David L. Wilson*
 
-  ACCV 2018. [[PDF]](https://arxiv.org/abs/1810.09354) [[Github]](https://github.com/bbbbbbzhou/Virtual-Dual-Energy)
+  ACCV 2018 [[PDF]](https://arxiv.org/abs/1810.09354) [[Github]](https://github.com/bbbbbbzhou/Virtual-Dual-Energy)
 
 + **⭐ Learning Bone Suppression from Dual Energy Chest X-rays using Adversarial Networks**
 
   *Dong Yul Oh; Il Dong Yun*
 
-  arxiv 2018. [[PDF]](https://arxiv.org/abs/1811.02628)
+  arxiv 2018 [[PDF]](https://arxiv.org/abs/1811.02628)
 
 + **Dilated conditional GAN for bone suppression in chest radiographs with enforced semantic features**
 
   *Zhizhen Zhou; Luping Zhou; Kaikai Shen*
 
-  Medical Physics 2020. [[PDF]](https://pubmed.ncbi.nlm.nih.gov/32621786/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
+  Medical Physics 2020 [[PDF]](https://pubmed.ncbi.nlm.nih.gov/32621786/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **⭐ Generating Dual-Energy Subtraction Soft-Tissue Images from Chest Radiographs via Bone Edge-Guided GAN**
 
   *Yunbi Liu; Mingxia Liu; Yuhua Xi; Genggeng Qin; Dinggang Shen; Wei Yang*
 
-  MICCAI 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_65)
+  MICCAI 2020 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_65)
 
 + **Bone Suppression on Chest Radiographs With Adversarial Learning**
 
   *Jia Liang; Yuxing Tang; Youbao Tang; Jing Xiao; Ronald M. Summers*
 
-  Medical Imaging 2020. [[PDF]](https://arxiv.org/abs/2002.03073) [[Dataset for RSNA]](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)
+  Medical Imaging 2020 [[PDF]](https://arxiv.org/abs/2002.03073) [[Dataset for RSNA]](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data)
 
 + **⭐ Image-to-Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography**
 
   *Mohammad Eslami; Solale Tabarestani; Shadi Albarqouni; Ehsan Adeli; Nassir Navab; Malek Adjouadi*
 
-  IEEE Transactions on Medical Imaging 2020. [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression) [[Dataset for JSRT bone masks]](https://doi.org/10.25919/5c49548be0551)
+  IEEE Transactions on Medical Imaging 2020 [[PDF]](https://ieeexplore.ieee.org/document/8999560) [[Github]](https://github.com/mohaEs/image-to-images-translation) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression) [[Dataset for JSRT bone masks]](https://doi.org/10.25919/5c49548be0551)
 
 + **⭐ Spatial feature and resolution maximization GAN for bone suppression in chest radiographs**
 
   *Geeta Rani; Ankit Misra; Vijaypal Singh Dhaka; Ester Zumpano; Eugenio Vocaturo*
 
-  Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722004060) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
+  Computer Methods and Programs in Biomedicine 2022 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722004060) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **GAN-based disentanglement learning for chest X-ray rib suppression**
 
   *Luyi Han; Yuanyuan Lyu; Cheng Peng; S. Kevin Zhou*
 
-  Medical Image Analysis 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841522000226?via%3Dihub#bib0002) [[Dataset for LIDC-IDRI]](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)
+  Medical Image Analysis 2022 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841522000226?via%3Dihub#bib0002) [[Dataset for LIDC-IDRI]](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)
 
 + **Applying a Conditional GAN for Bone Suppression in Chest Radiography Images**
 
   *Hugo Eduardo Ziviani; Guillermo C´amara Ch´avez; Mateus Coelho Silva*
 
-  Anais do XLIX Seminário Integrado de Software e Hardware 2022. [[PDF]](https://sol.sbc.org.br/index.php/semish/article/view/20794)
+  Anais do XLIX Seminário Integrado de Software e Hardware 2022 [[PDF]](https://sol.sbc.org.br/index.php/semish/article/view/20794)
 
 + **Cycle-generative adversarial network-based bone suppression imaging for highly accurate markerless motion tracking of lung tumors for cyberknife irradiation therapy**
    
   *Zennosuke Mochizuki, Masahide Saito, Toshihiro Suzuki, Koji Mochizuki, Junichi Hasegawa, Hikaru Nemoto, Kenichiro Satani, Hiroshi Takahashi, Hiroshi Onishi*
 
-  Journal of Applied Clinical Medical Physics 2023. [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/acm2.14212)
+  Journal of Applied Clinical Medical Physics 2023 [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/acm2.14212)
 
 + **CycleGAN Based Bone Suppression Techniques for Standard CXR Images**
 
   *V.Santhosh Kumar Tangudu, Jagadeesh Kakarla, A.Sam Prabhu & Bala Vikranth Kumar*
   
-   Pattern Recognition 2024. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_19)
+   Pattern Recognition 2024 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-78195-7_19)
   
 + **BLS-GAN: A Deep Layer Separation Framework for Eliminating Bone Overlap in Conventional Radiographs**
 
   Haolin Wang, Yafei Ou, Prasoon Ambalathankandy, Gen Ota, Pengyu Dai, Masayuki Ikebe, Kenji Suzuki, Tamotsu Kamishima
 
-  The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25) 2025. [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32826)
+  The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25) 2025 [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/32826)
   
 + **Improving CXR Bone Suppression by Exploiting Domain-level and Instance-level Information**
 
   Ling Yang, Zhenghao Chen, Kaisiyuan Wang, Luping Zhou
 
-  IEEE Transactions on Medical Imaging 2025. [[PDF]](https://ieeexplore.ieee.org/document/10979245)
+  IEEE Transactions on Medical Imaging 2025 [[PDF]](https://ieeexplore.ieee.org/document/10979245)
   
   
 ## Convolutional Neural Network
@@ -178,79 +178,79 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Kyungjin Cho; Jiyeon Seo; Sunggu Kyung; Mingyu Kim; Gil-Sun Hong; Namkug Kim*
 
-  Computer Methods and Programs in Biomedicine 2022. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722000128?via%3Dihub)
+  Computer Methods and Programs in Biomedicine 2022 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0169260722000128?via%3Dihub)
 
 + **⭐ Cascade of multi-scale convolutional neural networks for bone suppression of chest radiographs in gradient domain**
 
   *Wei Yang; Yingyin Chen; Yunbi Liu; Liming Zhong; Genggeng Qin; Zhentai Lu;Qianjin Feng; Wufan Chen*
 
-  Medical Image Analysis 2017. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841516301529)
+  Medical Image Analysis 2017 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1361841516301529)
 
 + **⭐ Deep Learning Models for Bone Suppression in Chest Radiographs**
 
   *Maxim Gusarev; Ramil Kuleev; Adil Khan; Adin Ramirez Rivera; Asad Masood Khattak*
 
-  CIBCB 2017. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs) [[Dataset for bone suppression]](https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing)
+  CIBCB 2017 [[PDF]](https://ieeexplore.ieee.org/abstract/document/8058543) [[Github]](https://github.com/danielnflam/Deep-Learning-Models-for-bone-suppression-in-chest-radiographs) [[Dataset for bone suppression]](https://drive.google.com/drive/folders/1VLD9deplqACJpdd47EdZCVW2BIN4eM95?usp=sharing)
 
 + **Bone Suppression of Chest Radiographs With Cascaded Convolutional Networks in Wavelet Domain**
 
   *Yingyin Chen; Xiaofang Gou; Xiuxia Feng; Yunbi Liu; Genggeng Qin; Qianjin Feng; Wei Yang; Wufan Chen*
 
-  IEEE ACCESS 2019. [[PDF]](https://ieeexplore.ieee.org/document/8604005)
+  IEEE ACCESS 2019 [[PDF]](https://ieeexplore.ieee.org/document/8604005)
 
 + **Separation of bones from soft tissue in chest radiographs: Anatomy-specific orientation-frequency-specific deep neural network convolution**
 
   *Amin Zarshenas; Junchi Liu; Paul Forti; Kenji Suzuki*
 
-  Medical Physics 2020. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510604/)
+  Medical Physics 2020 [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510604/)
 
 + **Bone Structures Extraction and Enhancement in Chest Radiographs via CNN Trained on Synthetic Data**
 
   *Ophir Gozes; Hayit Greenspan*
 
-  ISBI 2020. [[PDF]](https://arxiv.org/abs/2003.10839) [[Dataset for LIDC-IDRI]](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254) [[Dataset for NIH X-Ray14]](https://www.kaggle.com/datasets/nih-chest-xrays/data)
+  ISBI 2020 [[PDF]](https://arxiv.org/abs/2003.10839) [[Dataset for LIDC-IDRI]](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254) [[Dataset for NIH X-Ray14]](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 
 + **⭐ Bone suppression for chest X-ray image using a convolutional neural filter**
 
   *Naoki Matsubara; Atsushi Teramoto, Kuniaki Saito; Hiroshi Fujita*
 
-  Physical and Engineering Sciences in Medicine 2020. [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
+  Physical and Engineering Sciences in Medicine 2020 [[PDF]](https://link.springer.com/article/10.1007/s13246-019-00822-w)
 
 + **⭐ Improving Tuberculosis Recognition on Bone-Suppressed Chest X-rays Guided by Task-Specific Features**
 
   *Yunbi Liu; Genggeng Qin; Yun Liu; Mingxia Liu; Wei Yang*
 
-  PRIME 2021. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_6)
+  PRIME 2021 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_6)
 
 + **Isometric Convolutional Neural Networks for Bone Suppression of Multi-Planar Dual Energy Chest Radiograph**
 
   *Yossathorn Tianrungroj; Iba Hitoshi*
 
-  IIAIAAI 2022. [[PDF]](https://ieeexplore.ieee.org/document/9894637)
+  IIAIAAI 2022 [[PDF]](https://ieeexplore.ieee.org/document/9894637)
 
 + **Deep learning-based bone suppression in chest radiographs using CT-derived features: a feasibility study**
 
   *Ge Ren; Haonan Xiao; Sai-Kit Lam; Dongrong Yang; Tian Li; Xinzhi Teng; Jing Qin; Jing Cai*
 
-   Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611463/)
+   Quantitative Imaging in Medicine and Surgery 2021 [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8611463/)
 
 + **Chest tomosynthesis image enhancement by bone suppression using convolutional neural networks with synthetic data**
 
   *Xiaotong Xu, Qian Li, Shuang Jin, Zhe Su, Yu Zhang*
 
-  Journal of Radiation Research and Applied Sciences 2024. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1687850724000505?ref=pdf_download&fr=RR-2&rr=87277b24a85d3fcf)
+  Journal of Radiation Research and Applied Sciences 2024 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1687850724000505?ref=pdf_download&fr=RR-2&rr=87277b24a85d3fcf)
 
 + **xU-NetFullSharp: The Novel Deep Learning Architecture for Chest X-ray Bone Shadow Suppression**
 
   *Vojtech Schiller, Radim Burgeta, Samuel Genzor, Jan Mizera, Anzhelika Mezina*
 
-  Biomedical Signal Processing and Control 2025. [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424010413)
+  Biomedical Signal Processing and Control 2025 [[PDF]](https://www.sciencedirect.com/science/article/pii/S1746809424010413)
 
 + **Efficient labeling for fine-tuning chest X-ray bone-suppression networks for pediatric patients**
 
   Weijie Xie, Mengkun Gan, Xiaocong Tan, Mujiao Li, Wei Yang
   
-  Medical Physics 2025. [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17516)
+  Medical Physics 2025 [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17516)
 
 
 ## Bone Suppression Application
@@ -259,73 +259,74 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Peter Vock; Zsolt Szucs-Farkas*
 
-   European Journal of Radiology 2009. [[PDF]](https://www.sciencedirect.com/science/article/pii/S0720048X09001739)
+   European Journal of Radiology 2009 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0720048X09001739)
 
 + **When Does Bone Suppression And Lung Field Segmentation Improve Chest X-Ray Disease Classification?**
 
   *Ivo M. Baltruschat; Leonhard Steinmeister; Harald Ittrich; Gerhard Adam; Hannes Nickisch; Axel Saalbach; Jens von Berg; Michael Grass; Tobias Knopp*
 
-   ISBI 2019. [[PDF]](https://ieeexplore.ieee.org/document/8759510)
+   ISBI 2019 [[PDF]](https://ieeexplore.ieee.org/document/8759510)
 
 + **⭐ Evaluation of Deep Learning Method for Bone Suppression from Dual Energy Chest Radiography**
 
   *Ilyas Sirazitdinov; Konstantin Kubrak; Semen Kiselev; Alexey Tolkachev; Maksym Kholiavchenko; Bulat Ibragimov*
 
-   ICANN 2020. [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_20)
+   ICANN 2020 [[PDF]](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_20)
 
 + **⭐ Chest X-ray Bone Suppression for Improving Classification of Tuberculosis-Consistent Findings**
 
   *Sivaramakrishnan Rajaraman; Ghada Zamzmi; Les Folio;; Philip Alderson; Sameer Antani*
 
-   Diagnostics 2021. [[PDF]](https://www.mdpi.com/2075-4418/11/5/840) [[Github]](https://github.com/sivaramakrishnan-rajaraman/CXR-bone-suppression) [[Dataset for Montgomery TB CXR]](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-montgomery) [[Dataset for Shenzhen TB CXR]](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)[[Dataset for RSNA CXR]](https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data) [[Dataset for Pediatric pneumonia CXR]]( https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)       
+   Diagnostics 2021 [[PDF]](https://www.mdpi.com/2075-4418/11/5/840) [[Github]](https://github.com/sivaramakrishnan-rajaraman/CXR-bone-suppression) [[Dataset for Montgomery TB CXR]](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-montgomery) [[Dataset for Shenzhen TB CXR]](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)[[Dataset for RSNA CXR]](https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data) [[Dataset for Pediatric pneumonia CXR]]( https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)       
   
 + **Value of bone suppression software in chest radiographs for improving image quality and reducing radiation dose**
 
   *Gil-Sun Hong; Kyung-Hyun Do; A-Yeon Son; Kyung-Wook Jo; Kwang Pyo Kim; Jihye Yun; Choong Wook Lee*
 
-   European Radiology 2021. [[PDF]](https://link.springer.com/article/10.1007/s00330-020-07596-w)
+   European Radiology 2021 [[PDF]](https://link.springer.com/article/10.1007/s00330-020-07596-w)
   
 + **Bone Suppression on Chest Radiographs for Pulmonary Nodule Detection: Comparison between a Generative Adversarial Network and Dual-Energy Subtraction**
 
   *Kyungsoo Bae; Dong Yul Oh; Il Dong Yun; and Kyung Nyeo Jeon*
 
-   Korean Journal of Radiology 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743147/)
+   Korean Journal of Radiology 2022 [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743147/)
 
 + **Improved detection of solitary pulmonary nodules on radiographs compared with deep bone suppression imaging**
 
   *Jiefang Wu; Weiguo Chen; Fengxia Zeng; Le Ma; Weimin Xu; Wei Yang; Genggeng Qin*
 
-   Quantitative Imaging in Medicine and Surgery 2021. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8408784/)
+   Quantitative Imaging in Medicine and Surgery 2021 [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8408784/)
 
 + **⭐ DeBoNet: A deep bone suppression model ensemble to improve disease detection in chest radiographs**
 
   *Sivaramakrishnan Rajaraman; Gregg Cohen; Lillian Spear; Les Folio; Sameer Antani*
 
-   PLOS ONE 2022. [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265691) [[Github]](https://github.com/sivaramakrishnan-rajaraman/Bone-Suppresion-Ensemble)
+   PLOS ONE 2022 [[PDF]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265691) [[Github]](https://github.com/sivaramakrishnan-rajaraman/Bone-Suppresion-Ensemble)
 
 + **Development and validation of bone-suppressed deep learning classification of COVID-19 presentation in chest radiographs**
 
   *Ngo Fung Daniel Lam; Hongfei Sun; Liming Song; Dongrong Yang; Shaohua Zhi; Ge Ren; Pak Hei Chou; Shiu Bun Nelson Wan; Man Fung Esther Wong; King Kwong Chan; Hoi Ching Hailey Tsang; Feng-Ming (Spring) Kong; Yì Xiáng J. Wáng; Jing Qin; Lawrence Wing Chi Chan; Michael Ying; Jing Cai*
 
-   Quantitative Imaging in Medicine and Surgery 2022. [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
+   Quantitative Imaging in Medicine and Surgery 2022 [[PDF]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9246721/) [[Dataset for JSRT bone suppression]](https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression)
 
 + **Development and Validation of a Deep Learning–Based Synthetic Bone-Suppressed Model for Pulmonary Nodule Detection in Chest Radiographs**
   
   *Hwiyoung Kim; Kye Ho Lee; Kyunghwa Han, PhD; Ji Won Lee; Jin Young Kim; Dong Jin Im; Yoo Jin Hong; Byoung Wook Choi; Jin Hur, MD, PhD*
 
-  JAMA Network Open 2023. [[PDF]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800846)
+  JAMA Network Open 2023 [[PDF]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2800846)
   
 + **BSD: A multi-task framework for pulmonary disease classification using deep learning**
 
   *Sanli Yi, Shenglin Qin, Furong She, Dangguo Shao*
 
-  Expert Systems With Applications 2025. [[PDF]](https://www.sciencedirect.com/science/article/pii/S095741742402222X)
+  Expert Systems With Applications 2025 [[PDF]](https://www.sciencedirect.com/science/article/pii/S095741742402222X)
 
 + **Rib suppression-based radiomics for diagnosis of neonatal respiratory distress syndrome in chest X-rays**
 
   *Yudong Wang, Zongjin Qu, Zhengjun Dai, Yuhong Li, Yanyan Liu, Wei Wang, Lianxiang Xiao, Yi Zhang*
 
-  Scientific Reports 2025. [[PDF]](https://www.nature.com/articles/s41598-025-88982-6)
+  Scientific Reports 2025 [[PDF]](https://www.nature.com/articles/s41598-025-88982-6)
+  
 ## Datasets
 
 ### Dual Energy Subtraction(DES)
