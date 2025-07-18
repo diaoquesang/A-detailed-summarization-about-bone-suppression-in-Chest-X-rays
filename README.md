@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/15e67fd3-7604-4f25-a35c-12103eb0058f"  width="50%"><img src="https://www.konicaminolta.com/global-en/healthcare/technology/imaging-processing/bs/img/img_technologo_imaging_processing_013.jpg" width="50%">
+   <img src="https://github.com/user-attachments/assets/15e67fd3-7604-4f25-a35c-12103eb0058f"  width="50%"><img src="https://github.com/user-attachments/assets/3518c202-44af-410f-a067-a30229505b5a" width="50%">
 </div>
 
 ## 🏖️ Introduction
