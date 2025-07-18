@@ -36,13 +36,14 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   *Yifei Sun; Zhanghao Chen; Hao Zheng; Wenming Deng; Jin Liu; Wenwen Min; Ahmed Elazab; Xiang Wan; Changmiao Wang; Ruiquan Ge*
 
-  JBHI 2025. [[PDF]](https://ieeexplore.ieee.org/document/11079814)
-
+  JBHI 2025. [[PDF]](https://ieeexplore.ieee.org/document/11079814) [[Code]](https://github.com/diaoquesang/BS-LDM)
+  
 + **⭐ BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images**
   
   *Seweryn Kalisz; Michal Marczyk*
 
-  ISBI 2024 (Oral) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10635371)
+  ISBI 2024 (Oral) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10635371) [[Code]](https://github.com/Benny0323/BS-Diff)
+
 
 ## Autoencoder
 
