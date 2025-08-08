@@ -399,6 +399,17 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 
 ## Citation
 
+### MICCAI 2025 - GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images
+```
+@inproceedings{sun2025gl,
+  title={Gl-lcm: Global-local latent consistency models for fast high-resolution bone suppression in chest X-ray images},
+  author={Sun, Yifei and Chen, Zhanghao and Zheng, Hao and Lu, Yuqing and Duan, Lixin and Min, Wenwen and Fan, Fenglei and Elazab, Ahmed and Wan, Xiang and Wang, Changmiao and Ge, Ruiquan},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  year={2025},
+  organization={Springer}
+}
+```
+
 ### JBHI 2025 - BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models
 ```
 @article{sun2025bs,
@@ -409,6 +420,7 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
   publisher={IEEE}
 }
 ```
+
 ### ISBI 2024 (Oral) - BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models From Chest X-Ray Images
 ```
 @inproceedings{chen2024bs,
