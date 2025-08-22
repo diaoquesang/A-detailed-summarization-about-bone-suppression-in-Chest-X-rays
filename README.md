@@ -43,7 +43,13 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
   *Zhanghao Chen; Yifei Sun; Wenjian Qin; Ruiquan Ge; Cheng Pan; Wenming Deng; Zhou Liu; Wenwen Min; Ahmed Elazab; Xiang Wan; Changmiao Wang*
 
   ISBI 2024 (Oral) [[PDF]](https://ieeexplore.ieee.org/abstract/document/10635371) [[Code]](https://github.com/Benny0323/BS-Diff)
+  
++ **⭐ Bone supression in planar X-ray images with Stable Diffusion**
+  
+  *D Sanderson, M Elizalde, P Ochotorena, M Desco, M Abella*
 
+  Medical Imaging with Deep Learning-Short Papers 2025  [[PDF]](https://openreview.net/pdf?id=cfzJZ47xBU)
+  
 
 ## Autoencoder
 
