@@ -87,6 +87,12 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
   IEEE Transactions on Medical Imaging 2020 [[PDF]](https://ieeexplore.ieee.org/document/9058664)
 
++ **Unsupervised Domain Adaptation for Human and Animal Chest X-Ray Bone Suppression**
+  
+  *Tomohiro Hashimoto, Ayaka Maruo, Shoichiro Sekiguchi, Yoshitaka Ushiku, Genya Shimbo*
+
+  IEEE International Symposium on Biomedical Imaging (ISBI) 2024 [[PDF]](https://ieeexplore.ieee.org/document/10635259)
+  
 ## Manual Suppression
 
 + **Segmentation of Anatomical Structures on Chest Radiographs**
@@ -254,9 +260,21 @@ The mainstream method of bone suppression is deep learning, and can be roughly c
 
 + **Efficient labeling for fine-tuning chest X-ray bone-suppression networks for pediatric patients**
 
-  Weijie Xie, Mengkun Gan, Xiaocong Tan, Mujiao Li, Wei Yang
+  *Weijie Xie, Mengkun Gan, Xiaocong Tan, Mujiao Li, Wei Yang*
   
   Medical Physics 2025 [[PDF]](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17516)
+
++ **Automatic Pneumothorax Segmentation in Chest Radiographs Preprocessed by IEDSR Bone Suppression**
+
+  *Chih-Wen Lin, Chia-Hsiang H, Chian C. Ho, Zhi-Wei Wang*
+  
+  International Conference on Consumer Electronics - Taiwan 2024 [[PDF]](https://ieeexplore.ieee.org/document/10674396)
+
++ **Improving CXR Bone Suppression by Exploiting Domain-level and Instance-level Information**
+
+  *Ling Yang, Zhenghao Chen, Kaisiyuan Wang, Luping Zhou*
+  
+  IEEE Transactions on Medical Imaging 2025 [[PDF]](https://ieeexplore.ieee.org/document/10979245)
 
 
 ## Bone Suppression Application
