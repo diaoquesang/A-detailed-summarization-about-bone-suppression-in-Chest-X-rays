@@ -423,6 +423,15 @@ Thanks to [Junjie Wang](<zayn_wang@163.com>) for providing us with more public C
 
 ## Citation
 
+### arXiv 2026 - DeBoneDiT: Depth-Driven Conditional Bridge Diffusion Transformers for Bone Suppression in Chest X-Ray Images
+
+@article{sun2026debonedit,
+  title={DeBoneDiT: Depth-Driven Conditional Bridge Diffusion Transformers for Bone Suppression in Chest X-Ray Images},
+  author={Sun, Yifei and Fan, Fenglei and Jia, Junhao and Deng, Wenming and Xu, Hongxia and Wang, Changmiao and Ge, Ruiquan},
+  journal={arXiv preprint arXiv:2610.19466},
+  year={2026}
+}
+
 ### MICCAI 2025 - GL-LCM: Global-Local Latent Consistency Models for Fast High-Resolution Bone Suppression in Chest X-Ray Images
 ```
 @inproceedings{sun2025gl,
