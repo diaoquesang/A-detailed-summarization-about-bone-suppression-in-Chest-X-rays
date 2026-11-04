@@ -16,10 +16,10 @@
 This homepage lists some representative papers/codes/datasets all about bone suppression. We aim to constantly update the latest relevant papers and help the community track this topic. We also share with you a comprehensive understanding of diffusion models in detail. Please feel free to join us and contribute to the project. If you have any questions, please feel free to contact **Zhanghao Benny Chan** and **Yifei Sun**.
 
 
-Zhanghao Chen's email address is: <czh345068@gmail.com> or <bennychan@hdu.edu.cn>
+Zhanghao Chen's email address is: <czh345068@gmail.com>
 
 
-Yifei Sun's email address is: <diaoquesang@gmail.com> or <szhsxhsyf@hdu.edu.com>
+Yifei Sun's email address is: <diaoquesang@gmail.com> or <diaoquesang@zju.edu.cn>
 
 
 ## 🐈 Bone Suppression Papers
